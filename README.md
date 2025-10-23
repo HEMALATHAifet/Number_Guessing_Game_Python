@@ -1,8 +1,3 @@
-Here’s a **professional GitHub README.md** for your **Basic Python Project – Number Guessing Game** 👇
-
-You can copy this directly as your `README.md` file in your GitHub repo.
-
----
 
 ````markdown
 # 🎯 Number Guessing Game (Python)
