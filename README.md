@@ -121,7 +121,4 @@ Enter your guess: 63
 
 ```
 
----
 
-Would you like me to **add a difficulty-level version** of the game and update this README accordingly (as a beginner upgrade)?
-```
