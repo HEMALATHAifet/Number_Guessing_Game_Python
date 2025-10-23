@@ -1,13 +1,13 @@
 
 ````markdown
-# 🎯 Number Guessing Game (Python)
+🎯 Number Guessing Game (Python)
 
 A simple and fun **Python console game** where the computer randomly selects a number between 1 and 100, and the user tries to guess it!  
 The program gives hints — whether your guess is **too high** or **too low** — until you get it right.
 
 ---
 
-## 🚀 Features
+🚀 Features
 - Random number generation using the `random` module  
 - Hint messages for every guess  
 - Tracks number of attempts  
@@ -16,7 +16,7 @@ The program gives hints — whether your guess is **too high** or **too low** �
 
 ---
 
-## 🧠 How to Play
+🧠 How to Play
 1. Run the Python script.
 2. The program will choose a number between **1 and 100**.
 3. Enter your guesses until you find the correct number.
@@ -27,7 +27,7 @@ The program gives hints — whether your guess is **too high** or **too low** �
 
 ---
 
-## 🧩 Requirements
+🧩 Requirements
 
 * Python 3.x
 
@@ -35,7 +35,7 @@ No external libraries are required — this uses only built-in modules.
 
 ---
 
-## 🏗️ How to Run
+🏗️ How to Run
 
 1. Clone this repository:
 
@@ -55,7 +55,7 @@ No external libraries are required — this uses only built-in modules.
 
 ---
 
-## 🌟 Future Improvements
+🌟 Future Improvements
 
 * Add **difficulty levels** (Easy, Medium, Hard)
 * Add a **“Play Again”** option
@@ -64,7 +64,7 @@ No external libraries are required — this uses only built-in modules.
 
 ---
 
-## 📷 Example Output
+📷 Example Output
 
 ```
 🎯 Welcome to the Number Guessing Game!
@@ -79,10 +79,10 @@ Enter your guess: 63
 
 ---
 
-## 👩‍💻 Author
+👩‍💻 Author
 
-**Hema Bala**
-📫 [Connect on LinkedIn](https://www.linkedin.com/in/your-profile)
+**Hemalatha.A**
+📫 [Connect on LinkedIn](https://www.linkedin.com/in/hemalatha-a-developer/)
 ⭐ If you like this project, give it a star on GitHub!
 
 ```
